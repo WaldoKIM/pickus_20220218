@@ -1,0 +1,30 @@
+0114-132839.660 - 32512 - SR9C71EDSdD3Ikjp - MSG : TX_START - site_cd=[SR9C7]+tx_cd=[00100000]+ordr_idxx=[SCSAS1642134416]+log_level=[3]+opt=[0]
+0114-132839.667 - 32512 - SR9C71EDSdD3Ikjp - MSG : PG_SERVER_CONN__SUCC
+0114-132839.677 - 32512 - SR9C71EDSdD3Ikjp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0114-132840.223 - 32512 - SR9C71EDSdD3Ikjp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0114-132840.223 - 32512 - SR9C71EDSdD3Ikjp - MSG : TX_ENDED - res=[res_cd=0000res_msg=정상처리res_en_msg=processing completedtrace_no=SR9C71EDSdD3Ikjppay_method=PACAorder_no=SCSAS1642134416card_no=5461120000005066mcht_taxno=1138521083mall_taxno=2913900208ca_order_id=SCSAS1642134416cert_no=22644318805252tno=22644318805252amount=1100card_mny=1100coupon_mny=0escw_yn=Nvan_cd=VNKCapp_time=20220114132839van_apptime=20220114132839app_no=59821956bizx_numb=148034813quota=00noinf=Npg_txid=0114132839MOC6DD9O1ORC0000000011000059821956use_point=0res_tax_flag=TG01res_tax_mny=1000res_free_mny=0res_vat_mny=100partcanc_yn=Ycard_bin_type_01=0card_bin_type_02=1card_bin_bank_cd=0362join_cd=0000card_cd=CCNHcard_name=NH카드acqu_cd=CCNHacqu_name=NH카드]
+0114-133934.805 -   807 - SR9C71EDdYD3Ikjp - MSG : TX_START - site_cd=[SR9C7]+tx_cd=[00100000]+ordr_idxx=[MAYXS1642135092]+log_level=[3]+opt=[0]
+0114-133934.812 -   807 - SR9C71EDdYD3Ikjp - MSG : PG_SERVER_CONN__SUCC
+0114-133934.822 -   807 - SR9C71EDdYD3Ikjp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0114-133935.365 -   807 - SR9C71EDdYD3Ikjp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0114-133935.365 -   807 - SR9C71EDdYD3Ikjp - MSG : TX_ENDED - res=[res_cd=0000res_msg=정상처리res_en_msg=processing completedtrace_no=SR9C71EDdYD3Ikjppay_method=PACAorder_no=MAYXS1642135092card_no=5461120000005066mcht_taxno=1138521083mall_taxno=2913900208ca_order_id=MAYXS1642135092cert_no=22644319028522tno=22644319028522amount=1100card_mny=1100coupon_mny=0escw_yn=Nvan_cd=VNKCapp_time=20220114133934van_apptime=20220114133934app_no=59931046bizx_numb=148034813quota=00noinf=Npg_txid=0114133934MOC6ED9OFQ9Q0000000011000059931046use_point=0res_tax_flag=TG01res_tax_mny=1000res_free_mny=0res_vat_mny=100partcanc_yn=Ycard_bin_type_01=0card_bin_type_02=1card_bin_bank_cd=0362join_cd=0000card_cd=CCNHcard_name=NH카드acqu_cd=CCNHacqu_name=NH카드]
+0114-144347.921 -  5447 - SR9C71EEhlD3Ikjp - MSG : TX_START - site_cd=[SR9C7]+tx_cd=[00100000]+ordr_idxx=[KTVGC1642138945]+log_level=[3]+opt=[0]
+0114-144347.925 -  5447 - SR9C71EEhlD3Ikjp - MSG : PG_SERVER_CONN__SUCC
+0114-144347.936 -  5447 - SR9C71EEhlD3Ikjp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0114-144348.592 -  5447 - SR9C71EEhlD3Ikjp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0114-144348.593 -  5447 - SR9C71EEhlD3Ikjp - MSG : TX_ENDED - res=[res_cd=0000res_msg=정상처리res_en_msg=processing completedtrace_no=SR9C71EEhlD3Ikjppay_method=PACAorder_no=KTVGC1642138945card_no=5461120000005066mcht_taxno=1138521083mall_taxno=2913900208ca_order_id=KTVGC1642138945cert_no=22644320285099tno=22644320285099amount=1100card_mny=1100coupon_mny=0escw_yn=Nvan_cd=VNKCapp_time=20220114144347van_apptime=20220114144347app_no=60582121bizx_numb=148034813quota=00noinf=Npg_txid=0114144347MOC6CE9QQBCV0000000011000060582121use_point=0res_tax_flag=TG01res_tax_mny=1000res_free_mny=0res_vat_mny=100partcanc_yn=Ycard_bin_type_01=0card_bin_type_02=1card_bin_bank_cd=0362join_cd=0000card_cd=CCNHcard_name=NH카드acqu_cd=CCNHacqu_name=NH카드]
+0114-144610.767 -  5780 - SR9C71EEkAD3Ikjp - MSG : TX_START - site_cd=[SR9C7]+tx_cd=[00100000]+ordr_idxx=[KTVGC1642138945]+log_level=[3]+opt=[0]
+0114-144610.773 -  5780 - SR9C71EEkAD3Ikjp - MSG : PG_SERVER_CONN__SUCC
+0114-144610.783 -  5780 - SR9C71EEkAD3Ikjp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0114-144611.130 -  5780 - SR9C71EEkAD3Ikjp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0114-144611.130 -  5780 - SR9C71EEkAD3Ikjp - MSG : TX_ENDED - res=[res_cd=CC25res_msg=안심결제|CAVV 전문 오류res_en_msg=Card verification error.trace_no=SR9C71EEkAD3Ikjppay_method=PACAorder_no=KTVGC1642138945trade_seq=22644320327979card_cd=CCNHcard_name=NH카드]
+0114-144719.298 -  5792 - SR9C71EElJD3Ikjp - MSG : TX_START - site_cd=[SR9C7]+tx_cd=[00100000]+ordr_idxx=[GXQWE1642139180]+log_level=[3]+opt=[0]
+0114-144719.303 -  5792 - SR9C71EElJD3Ikjp - MSG : PG_SERVER_CONN__SUCC
+0114-144719.313 -  5792 - SR9C71EElJD3Ikjp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0114-144720.061 -  5792 - SR9C71EElJD3Ikjp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0114-144720.061 -  5792 - SR9C71EElJD3Ikjp - MSG : TX_ENDED - res=[res_cd=0000res_msg=정상처리res_en_msg=processing completedtrace_no=SR9C71EElJD3Ikjppay_method=PACAorder_no=GXQWE1642139180card_no=5461120000005066mcht_taxno=1138521083mall_taxno=2913900208ca_order_id=GXQWE1642139180cert_no=22644320348158tno=22644320348158amount=1100card_mny=1100coupon_mny=0escw_yn=Nvan_cd=VNKCapp_time=20220114144719van_apptime=20220114144719app_no=60618920bizx_numb=148034813quota=00noinf=Npg_txid=0114144719MOC6DC9QUUGA0000000011000060618920use_point=0res_tax_flag=TG01res_tax_mny=1000res_free_mny=0res_vat_mny=100partcanc_yn=Ycard_bin_type_01=0card_bin_type_02=1card_bin_bank_cd=0362join_cd=0000card_cd=CCNHcard_name=NH카드acqu_cd=CCNHacqu_name=NH카드]
+0114-144804.734 -  5805 - SR9C71EEm4D3Ikjp - MSG : TX_START - site_cd=[SR9C7]+tx_cd=[00100000]+ordr_idxx=[GXQWE1642139180]+log_level=[3]+opt=[0]
+0114-144804.738 -  5805 - SR9C71EEm4D3Ikjp - MSG : PG_SERVER_CONN__SUCC
+0114-144804.749 -  5805 - SR9C71EEm4D3Ikjp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0114-144805.202 -  5805 - SR9C71EEm4D3Ikjp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0114-144805.202 -  5805 - SR9C71EEm4D3Ikjp - MSG : TX_ENDED - res=[res_cd=CC25res_msg=안심결제|CAVV 전문 오류res_en_msg=Card verification error.trace_no=SR9C71EEm4D3Ikjppay_method=PACAorder_no=GXQWE1642139180trade_seq=22644320361575card_cd=CCNHcard_name=NH카드]

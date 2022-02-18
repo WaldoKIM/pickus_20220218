@@ -1,0 +1,15 @@
+0216-154419.397 - 14479 - SR9C72GFiJD3Ikjp - MSG : TX_START - site_cd=[SR9C7]+tx_cd=[00100000]+ordr_idxx=[ENHBW1644993791]+log_level=[3]+opt=[0]
+0216-154419.403 - 14479 - SR9C72GFiJD3Ikjp - MSG : PG_SERVER_CONN__SUCC
+0216-154419.413 - 14479 - SR9C72GFiJD3Ikjp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0216-154419.658 - 14479 - SR9C72GFiJD3Ikjp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0216-154419.658 - 14479 - SR9C72GFiJD3Ikjp - MSG : TX_ENDED - res=[res_cd=0000res_msg=정상처리res_en_msg=processing completedtrace_no=SR9C72GFiJD3Ikjppay_method=PACAorder_no=ENHBW1644993791card_no=4890160000005004mcht_taxno=1138521083mall_taxno=2913900208ca_order_id=ENHBW1644993791cert_no=22677058430820tno=22677058430820amount=1000card_mny=1000coupon_mny=0escw_yn=Nvan_cd=VNKCapp_time=20220216154419van_apptime=20220216154419app_no=00613246bizx_numb=880345279quota=00noinf=Npg_txid=0216154419MOC6058430820000000010000000613246use_point=0res_tax_flag=TG01res_tax_mny=909res_free_mny=0res_vat_mny=91partcanc_yn=Ycard_bin_type_01=0card_bin_type_02=0card_bin_bank_cd=0321join_cd=0000card_cd=CCDIcard_name=현대카드acqu_cd=CCDIacqu_name=현대카드]
+0216-154452.823 - 14507 - SR9C72GFiqD3Ikjp - MSG : TX_START - site_cd=[SR9C7]+tx_cd=[00200000]+ordr_idxx=[ENHBW1644993791]+log_level=[3]+opt=[0]
+0216-154452.830 - 14507 - SR9C72GFiqD3Ikjp - MSG : PG_SERVER_CONN__SUCC
+0216-154452.840 - 14507 - SR9C72GFiqD3Ikjp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0216-154452.867 - 14507 - SR9C72GFiqD3Ikjp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0216-154452.867 - 14507 - SR9C72GFiqD3Ikjp - MSG : TX_ENDED - res=[res_cd=8076res_msg=포맷에러(변경|변경유형)res_en_msg=trace_no=SR9C72GFiqD3Ikjp]
+0216-154808.887 - 14968 - SR9C72GFm8D3Ikjp - MSG : TX_START - site_cd=[SR9C7]+tx_cd=[00100000]+ordr_idxx=[FATKY1644993995]+log_level=[3]+opt=[0]
+0216-154808.892 - 14968 - SR9C72GFm8D3Ikjp - MSG : PG_SERVER_CONN__SUCC
+0216-154808.902 - 14968 - SR9C72GFm8D3Ikjp - MSG : PG_SERVER_REQ_MSG_SEND__SUCC
+0216-154809.149 - 14968 - SR9C72GFm8D3Ikjp - MSG : PG_SERVER_RES_MSG_RECV__SUCC
+0216-154809.149 - 14968 - SR9C72GFm8D3Ikjp - MSG : TX_ENDED - res=[res_cd=0000res_msg=정상처리res_en_msg=processing completedtrace_no=SR9C72GFm8D3Ikjppay_method=PACAorder_no=FATKY1644993995card_no=4890160000005004mcht_taxno=1138521083mall_taxno=2913900208ca_order_id=FATKY1644993995cert_no=22677058499966tno=22677058499966amount=1000card_mny=1000coupon_mny=0escw_yn=Nvan_cd=VNKCapp_time=20220216154808van_apptime=20220216154808app_no=00770382bizx_numb=880345279quota=00noinf=Npg_txid=0216154808MOC6058499960000000010000000770382use_point=0res_tax_flag=TG01res_tax_mny=909res_free_mny=0res_vat_mny=91partcanc_yn=Ycard_bin_type_01=0card_bin_type_02=0card_bin_bank_cd=0321join_cd=0000card_cd=CCDIcard_name=현대카드acqu_cd=CCDIacqu_name=현대카드]
